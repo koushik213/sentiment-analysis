@@ -1,9 +1,17 @@
 # Customer Sentiment Analysis for Omni-Channel Marketing Strategy
 
-# Goal 
+# Problem
+
+### Situation
 A cross-platform video streaming service that shows advertisements across Television, Computer and other portable media platforms and channels, aiming to launch a premium service with additional content based on personalized recommendations and demonstrate higher value to customers.
 
-# Steps
+### Task
+Identify consumer segments based on their sentiment towards marketing and personalization
+
+Discover the right channel and style to market to these segments
+
+---
+# Data Analysis and Model Developement Process
 * Data Wrangling
 * Exploratory Data Analysis
 * Unsupervised Learning for Customer segmentation 
@@ -11,7 +19,7 @@ A cross-platform video streaming service that shows advertisements across Televi
 ### Dataset 
 Deloitte Digital Democracy Survey
 
-# Customer Sentiements
+# Customer Sentiments
 
 In order to better understand how our customers felt about marketing strategies and advertisements in particular, we came up with the Market Affinity feature. This feature will help build our recommendation model and provide targeted recommendations regarding advertising strategies for each of the customer segments. The Market Affinity feature groups the customers into the below 4 categories:
 
